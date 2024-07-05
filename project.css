@@ -1,0 +1,580 @@
+body{
+    margin: 0;
+    
+}
+.main{
+    background-image: url(https://wallpapers.com/images/hd/beautiful-travel-2880-x-1800-wallpaper-7upnchkeakmqn8gj.jpg);
+    height: 800px;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+}
+.first-left{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+}
+.first-right{
+    padding: 20px;
+}
+.img-so{
+    border-radius: 50%;
+}
+.a{
+    padding: 10px;
+    margin: 10px;
+    font-size: larger;
+}
+.b{
+    padding: 10px;
+    margin: 5px;
+}
+.main-in{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.main-in-left{
+    margin-left: 100px;
+    padding: 20px;
+    color: white;
+}
+.tr{
+    border-radius: 50%;
+}
+.main-in-right{
+    color: white;
+    cursor:context-menu;
+    margin: 60px;
+}
+.c{
+    padding: 30px;
+    border-radius: 0.5rem;
+    cursor: pointer; 
+}
+.c:hover{
+    transform: scale(1.05);
+    box-shadow: 6px;
+    padding: 8px;
+    background-color: rgb(115, 126, 168);
+    border-radius: 0.5rem;
+    color: black;
+}
+.abc{
+    background-color: orange;
+    height: 40px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 0.5rem ;
+}
+.second-one{
+    font-size: 80px;
+    text-align: center;
+    color: aliceblue;
+}
+.second-two{
+    text-align: center;
+}
+.cr{
+    text-align: center;
+}
+.cr-b{
+    height: 40px;
+    color: black;
+    background-color: rgb(236, 67, 67);
+    border-radius: 0.5rem;
+}
+.main-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    height: 120px;
+    width: 1110px;
+    margin-left: 160px;
+    margin-top: 150px;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 8px 4px 6px;
+    color: gray;
+}
+.form{
+    color: black;
+    font-size: larger;
+}
+.main-one-1{
+    padding: 30px;
+}
+.ir{
+    background-color: tomato;
+    height: 40px;
+}
+.main-two{
+    margin-top: 180px;
+    margin-left: 160px;
+    width: 1110px; 
+}
+.pd{
+    color: orange;
+}
+.name{
+    color: white;
+    background-color: rgb(8, 113, 113);
+    width: 150px;
+    margin-left: 25px;
+}
+.name-one{
+    color: white;
+    background-color: rgb(8, 113, 113);
+    width: 200px;
+    margin-left: 25px;
+}
+.main-two-right-one{
+    background-image: url(https://uceap.universityofcalifornia.edu/sites/default/files/2020-09/summer-internship-bangkok-m2.jpg);
+    height: 450px;
+    width: 300px;
+    border: 4px whitesmoke solid; 
+    margin: 10px;
+}
+.main-two-right-two{
+    background-image: url(https://assets.simpleviewcms.com/simpleview/image/upload/c_fill,g_xy_center,h_800,w_640,x_493,y_466/f_jpg/q_65/v1/clients/norway/woman_at_aksla_viewpoint_alesund_fjord_norway_photo_samuel_taipale_visitnorway_com_2_1_d8fe3b3d-9c01-40ed-afe6-7a2c5549d79e.jpg?_a=BATCtdAA0);
+    height: 450px;
+    width: 300px;
+    border: 4px whitesmoke solid;  
+    margin: 10px; 
+}
+.around{
+    background-image: url(https://cdn.britannica.com/68/179868-138-F4FC616A/Overview-discussion-Southern-Alps-warming-New-Zealand.jpg?w=800&h=450&c=crop);
+    height: 210px;
+    width: 400px; 
+    border: 4px whitesmoke solid; 
+    margin: 20px;
+}
+.around-one{
+    background-image: url(https://media.timeout.com/images/106121309/750/422/image.jpg);
+    height: 210px;
+    width: 400px; 
+    border: 4px whitesmoke solid; 
+    margin: 20px;
+}
+.main-two-right{
+    display: flex;
+    flex-direction: row;
+}
+.main-sub-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.button{
+    text-align: center;
+}
+.md{
+    background-color: rgb(252, 119, 89);
+    height: 45px;
+    width: 180px;
+    border: none;
+    margin-top: 20px;
+}
+.main-three{
+ margin-top: 80px;
+ text-align: center;
+}
+.egp{
+    color: orange;
+}
+.main-three-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sunset{
+    border: 4px snow solid;
+    width: 300px;
+    height: 500px;
+    padding:10px;
+    background-color: white;
+    text-align: justify;
+    margin-top: 20px;
+   
+}
+.sunset:hover{
+    transform: scale(1.05);
+    box-shadow: 5px 4px 3px 2px 1px;
+    background-color: whitesmoke;
+    color: gray;
+}
+.va{
+    height: 40px;
+    background-color: orangered;
+    border: none;
+    color: black;
+
+}
+.vap{
+    text-align: center;
+    margin-top: 80px;
+}
+.main-four{
+    margin-top: 100px;
+    margin-left: 160px;
+    background-color: rgb(33, 211, 218);
+    height: 800px;
+}
+.tillu{
+    display: flex;
+    flex-direction: row;
+}
+.four-right-right{
+    display: flex;
+    flex-direction: row;
+}
+.four-right-right-right{
+    display: flex;
+    flex-direction: row; 
+    margin: 10px;
+}
+.v{
+    border: 2px whitesmoke solid;
+    height: 160px;
+    width: 500px;
+    background-color: white;
+    box-shadow: 10px 8px 6px 4px;
+}
+.four-main-right{
+    margin: 20px;
+}
+.logo{
+    border-radius: 50%;
+}
+.right-sub{
+    margin: 20px;
+}
+.four-one-left{
+    display: flex;
+    flex-direction: row;
+}
+.kallu{
+    display: inline-block;
+    margin: 30px;
+    padding: 20px;
+}
+.box6{
+    position: relative;
+    top: 140px;
+   right: 200px;
+}
+.box7{
+    position: relative;
+    bottom: 370px;
+    left: 250px; 
+}
+.box8{
+    position: relative;
+   bottom: 400px;
+    left: 340px;
+}
+
+.main-five{
+    margin-top: 250px;
+    margin-left: 160px;
+    width: 1110px;
+}
+.tba{
+    color: orange;
+}
+.navbar{
+    text-align: center;
+}
+.navbar-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.navbar-one{
+    border: 1px black solid;
+    width: 150px;
+    padding: 10px;
+}
+.main-six{
+    margin-top: 200px;
+    margin-left: 160px;
+    width: 1110px;
+}
+.tod{
+    color: orange;
+}
+.nav{
+    text-align: center;
+}
+.nav-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.sub-sub{
+    border: 4px white solid;
+    width: 300px;
+    margin-top: 350px;
+    margin-left: 20px;
+    background-color: white;
+    color: gray;
+    box-shadow: 5px 4px 4px 6px;
+}
+.sub-sub:hover{
+    transform: scale(1.05);
+    box-shadow: 5px 4px 3px;
+    color: gray;
+}
+.sub-nav-one{
+    background-image: url(https://img.freepik.com/premium-photo/couple-love-embracing-against-landscape-mountains_293026-226.jpg);
+    height: 450px;
+    width: 350px;
+}
+.sub-nav-two{
+    background-image: url(https://www.photocase.com/photos/1300856-boy-hiking-alone-in-the-mountains-lifestyle-photocase-stock-photo-large.jpeg);
+    height: 450px;
+    width: 350px;
+}
+.sub-nav-tree{
+    background-image: url(https://img.freepik.com/premium-photo/couple-love-embracing-against-landscape-mountains_293026-226.jpg);
+    height: 450px;
+    width: 350px;
+}
+.cna{
+    color: rgb(17, 130, 130);
+}
+.p{
+    color: rgb(251, 125, 79);
+}
+.main-seven{
+    margin-top: 200px;
+    margin-left: 160px;
+    width: 1110px;
+}
+.ot{
+    color: orange;
+}
+.seven-right-one{
+    display: flex;
+    flex-direction: row;
+}
+.seven-sub-right-one{
+    margin: 10px;
+}
+.seven-sub{
+    display: flex;
+    flex-direction: row;
+}
+.med{
+    margin-left: 10px;
+    border: 4px rgb(243, 239, 230) solid;
+}
+.border{
+    border: 4px rgb(243, 239, 230) solid;
+}
+.seven-one{
+    text-align: justify;
+    width: 440px;
+}
+.seven-left{
+    width: 70%;
+}
+.seven-right{
+    width: 70%;
+}
+.main-eight-one{
+    background-image: url(https://canoekerala.com/image-uploads/62685a5bb7f8d_pexels-firos-nv-4704302.jpg);
+    height: 700px;
+    margin-top: 200px;
+}
+.box{
+    border: 4px rgb(34, 150, 176) solid ;
+    width: 1050px;
+    margin-top: 180px;
+    margin-left: 180px;
+    background-color: rgb(34, 150, 176);
+    color: gray;
+    box-shadow: 8px 6px 4px;
+}
+.box10{
+    position: relative;
+    bottom: 50px;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main-in-eight{
+    margin-left: 150px;
+    margin-top: 150px;
+    color: white;
+    width: 550px;
+}
+.vvv{
+    height: 30px;
+    width: 250px;
+}
+.sss{
+    height: 38px;
+    width: 160px;
+    background-color: rgb(235, 92, 20);
+}
+.main-nine{
+    margin-top: 190px;
+    margin-left: 160px;
+    width: 1110px;
+}
+.fob{
+    color: orange;
+}
+.main-nine-sub{
+    text-align: center;
+}
+.main-nine-in-sub{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.nine-sub{
+    border: 5px whitesmoke solid;
+    margin-top: 50px;
+    margin: 20px;
+    height: 400px;
+    width: 300px;
+}
+.nine-sub:hover{
+    transform: scale(1.05);
+    box-shadow: 4px 6px 8px 10px;
+    color: gray;
+}
+.main-ten{
+    margin-top: 190px;
+    margin-left: 160px;
+    width: 1110px;
+}
+.ten-sub{
+    text-align: center;
+    padding: 30px;
+}
+.vishu{
+    border-radius: 50%;
+}
+.sai{
+    color: rgb(24, 186, 186);
+}
+.main-eleven{
+    background-color: rgb(58, 205, 224);
+    height: 500px;
+    margin-top: 130px;
+}
+.t{
+    display: inline-block;
+    margin: 30px;
+    padding: 20px;
+}
+.img-add{
+    border: 2px whitesmoke solid;
+}
+.box1{
+    position: relative;
+    bottom: 130px;
+    left: 80px;
+}
+.box2{
+    position: relative;
+    bottom: 235px;
+    left: 100px;
+}
+.box3{
+    position: relative;
+    bottom: 235px;
+    left: 80px;
+}
+.box4{
+    position: relative;
+    bottom: 235px;
+    left: 80px;
+}
+.last-one{
+    background-color: black;
+    height: 460px;
+}
+.img-blue{
+    border-radius: 50%;
+    cursor: pointer;
+}
+.img-blue:hover{
+    transform: scale(1.05);
+    box-shadow: 6px 4px;
+    
+}
+.mail{
+    cursor: pointer;
+}
+.mail:hover{
+    transform: scale(1.05);
+    box-shadow:2px;
+}
+.cu{
+    color: white;
+}
+.last-one-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+}
+.link{
+    border-radius: 50%;
+}
+.link:hover{
+    transform: scale(1.05);
+    box-shadow:2px;
+}
+.last-one-two{
+    margin: 40px;
+    padding: 40px;
+    width: 50%;
+}
+.last-one-two-one{
+    margin: 40px;
+    padding: 40px;
+    width: 50%;
+
+}
+.chotu{
+    height: 30px;
+    width: 250px;
+}
+.motu{
+    height: 38px;
+    width: 160px;
+    background-color: rgb(235, 92, 20);
+}
+.twelve-sub{
+    background-color: rgb(155, 155, 187);
+    margin-top: 350px;
+}
+.twelve-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.vs{
+    border-radius: 50%;
+}
+.ppp{
+    margin: 30px;
+}
